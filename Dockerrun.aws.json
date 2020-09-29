@@ -1,0 +1,13 @@
+{
+    "AWSEBCockerrunVersion": 2,
+    "ContainerDefinitions": [
+        {
+            "name": "client",
+            "image": "shekhark99/multi-client",
+            "hostname" : "client",
+            "essential" : false
+        
+        } 
+        
+    ]
+}
